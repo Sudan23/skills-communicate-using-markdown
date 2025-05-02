@@ -1,3 +1,13 @@
+- [x] Learn to create a list
+- [ ] Git is fun
+- [x] I regret learning it late
+
+
+
+
+
+
+
 # testing of Markdown header
 #### testing of fourth header
 
